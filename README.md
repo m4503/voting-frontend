@@ -1,5 +1,7 @@
 # 投票系統前端
 
+Vue 3 + Vite
+
 安裝:
 npm install
 
