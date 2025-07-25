@@ -9,6 +9,3 @@ npm run dev
 前端將運行於 http://localhost:5173
 
 後台 http://localhost:5173/admin
-
-建置生產版本:
-npm run build
